@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align=center>
 <h3>✨ github stats ✨</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkimv&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkimv&show_icons=true&theme=graywhite)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwkimv&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwkimv&layout=compact&theme=graywhite)
 </div>
