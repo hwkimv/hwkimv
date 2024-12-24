@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/hwkimv)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hwkimv)](https://solved.ac/hwkimv)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkimv&show_icons=true&theme=radical)
 
