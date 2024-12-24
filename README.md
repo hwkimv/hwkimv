@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyunTae's%20Github!&fontSize=35" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=_ha_nk's%20Github!&fontSize=35" />	
 </div>
 <div align=center>
 <h3>✨ solved.ac ✨</h3>
