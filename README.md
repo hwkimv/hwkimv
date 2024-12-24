@@ -17,7 +17,7 @@ poetry install             # 의존성 설치
 poetry shell               # 가상환경에 진입
 pip install -r requirements.txt
 python manage.py runserver
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={hwkimv})](https://solved.ac/{hwkimv})
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwkimv)](https://solved.ac/hwkimv)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkimv&show_icons=true&theme=radical)
 
