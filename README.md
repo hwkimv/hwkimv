@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hwkimv&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkimv&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkimv&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwkimv&layout=compact&theme=dark)
