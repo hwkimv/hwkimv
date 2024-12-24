@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-python manage.py runserver
+
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwkimv)](https://solved.ac/hwkimv)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkimv&show_icons=true&theme=radical)
