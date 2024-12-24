@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align=center>
-	<img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-<div align=center>
-<h3>✨ solved.ac ✨</h3>
+<h3> solved.ac </h3>
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwkimv)](https://solved.ac/hwkimv)
 
@@ -25,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-<h3>✨ github stats ✨</h3>
+<h3> github stats </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkimv&show_icons=true&theme=one_dark_pro)
 
